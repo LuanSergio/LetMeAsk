@@ -1,46 +1,124 @@
-# Getting Started with Create React App
+# LetMeAsk
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+  <a href="https://letmeask-82693.web.app/">	
+    <img alt="LetMeAsk" title="LetMeAsk" src="/docs/logo.png" />
+  </a>
+</h1>
 
-## Available Scripts
+<p align="center">
+  <strong >
+    An application built to and manage questions during lives<br>
+    Developed during the Next Level Week 6, created by Rocketseat. <br>
+    <a href="https://letmeask-82693.web.app/">Click here</a> for a live version.
+  </strong>  
+</p>
+<br>
 
-In the project directory, you can run:
+<p align="center">
+  <a href="#star2-Features"><strong>Features</strong></a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#speech_balloon-About"><strong>About</strong></a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#art-Layout"><strong>Layout</strong></a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#robot-Technologies-and-Tools"><strong>Technologies</strong></a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#man_technologist-Running-Locally"><strong>Running Locally</strong></a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-License"><strong>License</strong></a>
+</p>
 
-### `yarn start`
+<a href="https://letmeask-82693.web.app/">	
+  <img src="/docs/icon.png" align="right" />
+</a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## :speech_balloon: About:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+The idea of this project is to allow content creators to create and manage rooms where users can ask questions.
 
-### `yarn test`
+### What is Next Level Week?
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Next Level Week is a recurring online programming event made by the brazilian company [Rocketseat](https://github.com/Rocketseat). The event only last one week, with all it's content being deleted after that period, to avoid procrastination, since you must finishes it in one week. Each event focus on different aspects of the proposed language/framework. [Click here](https://nextlevelweek.com/) to know more.
 
-### `yarn build`
+<div align="center">
+  <img  src="/docs/division.png" />
+</div>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## :star2: Features:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- <strong>Share your questions:</strong> You can access rooms and make your own questions so the admin can read and answer it on live streams.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- <strong>Create rooms and share it with other people:</strong> You can create your own room and share a access code so other users can access your room.
 
-### `yarn eject`
+- <strong>Sign in using your google account:</strong> You can sign in using your google account so it's not necessary to create an account or give any kind of information.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- <strong>Like other users questions to rank them up:</strong> By liking other users questions, the admin know which question are being more requested
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- <strong>Highlight questions that are being read:</strong> The admin can highlight a question, so it gets more visible which question is being answered.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- <strong>Delete unwanted questions:</strong> The admin can delete any question.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- <strong>Mark a question as read:</strong> The admin can mark a question as read, so likes will be deactivated.
 
-## Learn More
+<div align="center">
+  <img  src="/docs/division.png" />
+</div>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## :art: Layout:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<a href="https://www.figma.com/file/bgFxNN47lpezdBnIxyQPSK/Picross-Universe?node-id=332%3A10">	
+  <img src="/docs/layout-figma.png" />
+</a>
+
+You can **[click here](https://www.figma.com/file/v28mkyQWi8MtIQ1KM5htcy/Letmeask?node-id=0%3A1)** to see the layout on Figma, or **[here](https://www.figma.com/file/v28mkyQWi8MtIQ1KM5htcy/Letmeask/duplicate)** to copy it to your own figma. The layout was made by **[Rebecca Gonzalez](https://dribbble.com/rebeccagonzalez)**
+
+<div align="center">
+  <img  src="/docs/division.png" />
+</div>
+
+## :robot: Technologies and Tools
+
+<p>Technologies used:</p>
+
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Parcel Bundler](https://parceljs.org/)
+- [Sass](https://sass-lang.com/)
+- [Yarn](https://yarnpkg.com/)
+
+<p>Tools: </p>
+
+- [VS Code](https://code.visualstudio.com/)
+- [Figma](https://www.figma.com/)
+
+<div align="center">
+  <img  src="/docs/division.png" />
+</div>
+
+## :man_technologist: Running Locally
+
+<p>You must have <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">Git</a>, <a href="https://nodejs.org/en/">Node</a> and <a href="https://yarnpkg.com/">Yarn</a> installed.
+
+On your favorite terminal, run the following commands:
+
+```bash
+# Clone the repository
+$ git clone https://github.com/LuanSergio/LetMeAsk.git
+
+# Navigate to the repository
+$ cd LetMeAsk
+
+# Install dependencies
+$ yarn install
+
+# Run the application locally
+$ yarn start
+
+# Build the application for production
+$ yarn build
+```
+
+<div align="center">
+  <img  src="/docs/division.png" />
+</div>
+
+## :memo: License
+
+This project is under the MIT license.
+**[Click here for more information](LICENSE)**.
