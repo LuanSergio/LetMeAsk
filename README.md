@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong >
-    An application built to and manage questions during lives<br>
+    An application built to create and manage questions during live streams<br>
     Developed during the Next Level Week 6, created by Rocketseat. <br>
     <a href="https://letmeask-82693.web.app/">Click here</a> for a live version.
   </strong>  
@@ -78,7 +78,6 @@ You can **[click here](https://www.figma.com/file/v28mkyQWi8MtIQ1KM5htcy/Letmeas
 
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Parcel Bundler](https://parceljs.org/)
 - [Sass](https://sass-lang.com/)
 - [Yarn](https://yarnpkg.com/)
 
