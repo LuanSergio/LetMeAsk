@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://letmeask-82693.web.app/">	
-    <img alt="LetMeAsk" title="LetMeAsk" src="/docs/logo.png" />
+    <img alt="LetMeAsk" title="LetMeAsk" src="/docs/images/logo.png" />
   </a>
 </h1>
 
@@ -25,7 +25,7 @@
 </p>
 
 <a href="https://letmeask-82693.web.app/">	
-  <img src="/docs/icon.png" align="right" />
+  <img src="/docs/images/icon.png" align="right" />
 </a>
 
 ## :speech_balloon: About:
@@ -37,7 +37,7 @@ The idea of this project is to allow content creators to create and manage rooms
 Next Level Week is a recurring online programming event made by the brazilian company [Rocketseat](https://github.com/Rocketseat). The event only last one week, with all it's content being deleted after that period, to avoid procrastination, since you must finishes it in one week. Each event focus on different aspects of the proposed language/framework. [Click here](https://nextlevelweek.com/) to know more.
 
 <div align="center">
-  <img  src="/docs/division.png" />
+  <img  src="/docs/images/division.png" />
 </div>
 
 ## :star2: Features:
@@ -57,19 +57,19 @@ Next Level Week is a recurring online programming event made by the brazilian co
 - <strong>Mark a question as read:</strong> The admin can mark a question as read, so likes will be deactivated.
 
 <div align="center">
-  <img  src="/docs/division.png" />
+  <img  src="/docs/images/division.png" />
 </div>
 
 ## :art: Layout:
 
 <a href="https://www.figma.com/file/bgFxNN47lpezdBnIxyQPSK/Picross-Universe?node-id=332%3A10">	
-  <img src="/docs/layout-figma.png" />
+  <img src="/docs/images/layout-figma.png" />
 </a>
 
 You can **[click here](https://www.figma.com/file/v28mkyQWi8MtIQ1KM5htcy/Letmeask?node-id=0%3A1)** to see the layout on Figma, or **[here](https://www.figma.com/file/v28mkyQWi8MtIQ1KM5htcy/Letmeask/duplicate)** to copy it to your own figma. The layout was made by **[Rebecca Gonzalez](https://dribbble.com/rebeccagonzalez)**
 
 <div align="center">
-  <img  src="/docs/division.png" />
+  <img  src="/docs/images/division.png" />
 </div>
 
 ## :robot: Technologies and Tools
@@ -88,7 +88,7 @@ You can **[click here](https://www.figma.com/file/v28mkyQWi8MtIQ1KM5htcy/Letmeas
 - [Figma](https://www.figma.com/)
 
 <div align="center">
-  <img  src="/docs/division.png" />
+  <img  src="/docs/images/division.png" />
 </div>
 
 ## :man_technologist: Running Locally
@@ -115,7 +115,7 @@ $ yarn build
 ```
 
 <div align="center">
-  <img  src="/docs/division.png" />
+  <img  src="/docs/images/division.png" />
 </div>
 
 ## :memo: License
