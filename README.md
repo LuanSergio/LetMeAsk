@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong >
-    An application built to create and manage questions during live streams<br>
+    An application built to create and manage questions during live streams.<br>
     Developed during the Next Level Week 6, created by Rocketseat. <br>
     <a href="https://letmeask-82693.web.app/">Click here</a> for a live version.
   </strong>  
